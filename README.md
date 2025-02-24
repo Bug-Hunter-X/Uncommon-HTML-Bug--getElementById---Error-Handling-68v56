@@ -1,0 +1,1 @@
+This repository demonstrates a common yet often overlooked error in HTML/JavaScript development: improper handling of cases where an element accessed via getElementById() may not exist.  The bug.html file shows the issue, while bugSolution.html presents a robust solution.
